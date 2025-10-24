@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm Mayorkun
 
-<!--
-**samuelayanshina/samuelayanshina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Designer & Fullstack Developer** building fast, modern **AI-powered SaaS and MVPs** 🚀  
 
-Here are some ideas to get you started:
+💡 I combine design thinking with technical execution — from Figma to production-ready apps.  
+Currently crafting sleek, scalable digital products using **React, Firebase, and Next.js**, with a growing focus on **AI integrations**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Do
+- 🎨 Design and prototype intuitive user experiences  
+- ⚡ Build responsive fullstack web apps  
+- 🤖 Add smart AI features using OpenAI APIs  
+- 🚀 Deliver complete MVPs for startups  
+
+### 🧰 Tech Stack
+React | Next.js | Firebase | Node.js | Tailwind | Figma | OpenAI | Vercel
+
+### 🌍 Featured Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| [Cjet Dispatch](https://github.com/samuelayanshina/Cjet-Dispatch) | Document & letter dispatch system with real-time tracking | React, Firebase |
+| [AI Taskmate](#) | Smart AI-powered task planner | Next.js, OpenAI, Firebase |
+| [SaaSKit](#) | Boilerplate for launching SaaS MVPs in days | Next.js, Stripe, Firebase |
+
+### 📫 Get in touch
+- 💼 [Portfolio Website](#)
+- 💬 [LinkedIn](#)
+- 🐦 [Twitter](#)
