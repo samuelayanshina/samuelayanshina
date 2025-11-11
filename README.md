@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mayorkun
 
-**Product Designer & Fullstack Developer** building fast, modern **AI-powered SaaS and MVPs** 🚀  
+**Product Designer & Software Developer** building fast, modern **AI-powered SaaS and MVPs** 🚀  
 
 💡 I combine design thinking with technical execution — from Figma to production-ready apps.  
 Currently crafting sleek, scalable digital products using **React, Firebase, and Next.js**, with a growing focus on **AI integrations**.
